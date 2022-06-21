@@ -1,0 +1,208 @@
+.header{
+    width: 100%;
+    height: 72px;
+    background:#252e39 ;
+    display:flex;
+    position: fixed;
+
+
+}
+body{
+    margin: 0;
+}
+.left-header{
+    width: 50%;
+    
+
+}
+.header-list{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.right-header{
+    width: 50%;
+    background: #252e39;
+
+    
+}
+.header-icon{
+    height: 35px;
+    width: 113px;
+    margin-left: 7%;
+    margin-top: 3%;
+    float: left;
+    cursor: pointer;
+    
+
+}
+.search-icon{
+    margin-left: 25px;
+    margin-top: 22px;
+    cursor: pointer;
+
+}
+.globe-icon{
+    margin-left: 20px;
+    cursor: pointer;
+
+}   
+.user-icon{
+    margin-left: 60px;
+    cursor: pointer;
+
+}
+.header-button{
+    margin-left: 250px;
+    height: 35px;
+    width: 130px;
+    background-color: #2c99d0;
+    border-color: #2c99d0;
+    cursor: pointer;
+    border-radius: 3px;
+    border-style: solid;
+    color: rgba(242,244,246,.9);
+    font-size: 17px;
+    margin-top: 20px;
+    
+    
+}
+.header-button:hover{
+    background: #60b3dc;
+}
+.box1{
+    height: 420px;
+    width: 100%;
+    background-image: linear-gradient(to right,black 40%,transparent 76%),url(Logo/MLP.jpg);
+
+}
+.text1{
+    padding-left: 6%;
+    padding-top: 6%;
+    font-family:  'Roboto', sans-serif;
+    font-size: 23px;
+
+}
+h2{
+    padding-left: 6%;
+    font-family: 'Roboto', sans-serif;
+}
+.box1-button{
+    background-color: #2c99d0;
+    color: white;
+    border-radius: 3px;
+    border-color: #2c99d0;
+    border-style: solid;
+    margin-left: 6%;
+    height: 50px;
+    width: 280px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    padding-left: 123px;
+}
+
+.box2{
+    height: 420px;
+    width: 100%;
+    background-image: linear-gradient(to right,black 40%,transparent 76%),url(Logo/Prime-Video---1440-x-675-New.jpg);
+}
+.text2{
+    padding-left: 6%;
+    padding-top: 6%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+
+
+}
+h3{
+    padding-left: 6%;
+    font-family: 'Roboto', sans-serif;
+}
+.box3{
+    width: 100%;
+    height: 520px;
+    background-image: url(Logo/MLP_Template_Image_Left.jpg)
+       
+}
+.text3{
+    padding-left: 60%;
+    padding-top: 5%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+
+
+}
+h4{
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+
+}
+.box3-button{
+    background-color: #2c99d0;
+    color: white;
+    border-radius: 3px;
+    border-color: #2c99d0;
+    border-style: solid;
+    height: 50px;
+    width: 280px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.box4{
+    width: 100%;
+    height: 500px;
+    background-image: url(Logo/IN-kids-30Jan._CB1517304519_.jpg)
+
+
+}
+.text4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding-left: 65px;
+    padding-top: 40px;
+
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background: #232121;
+   
+
+}
+.footer-icon{
+    padding-left: 45%;
+    padding-top: 2%;
+}
+.ul-footer{
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif ;
+    list-style: none;
+    color: #0f79af;
+    font-size: 15px;
+    padding-left: 320px;
+}
+.text{
+    font-size: 15px;
+    color: #252e39;
+
+    
+}
+li{
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
+
+
+
